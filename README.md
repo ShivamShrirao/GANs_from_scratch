@@ -1,2 +1,10 @@
 # GANs_from_scratch
 Different Generative Adverserial Networks implementations on my library at https://github.com/ShivamShrirao/dnn_from_scratch
+
+## DCGAN in 1 epoch
+
+![DCGAN in 1 Epoch](/images/DCGAN_1epoch.png)
+
+## Fully Connected GAN in 10 epochs
+
+![FCGAN in 10 Epochs](/images/gan10epochs.png)
