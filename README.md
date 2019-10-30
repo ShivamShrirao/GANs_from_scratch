@@ -1,6 +1,7 @@
 # GANs_from_scratch
 Different Generative Adverserial Networks implementations on my library at https://github.com/ShivamShrirao/dnn_from_scratch
 
+Haven't trained much in images below. Just checking working.
 ## DCGAN in 1 epoch
 
 ![DCGAN in 1 Epoch](/images/DCGAN_1epoch.png)
