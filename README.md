@@ -5,6 +5,8 @@ Haven't trained much in images below. Just checking working.
 ## DCGAN in 1 epoch
 ![DCGAN in 1 Epoch faces](/images/faces_1epoch.png)
 
+![DCGAN in 1 Epoch faces](/images/faces_5epoch.png)
+
 ![DCGAN in 1 Epoch](/images/DCGAN_1epoch.png)
 
 ## Fully Connected GAN in 10 epochs
